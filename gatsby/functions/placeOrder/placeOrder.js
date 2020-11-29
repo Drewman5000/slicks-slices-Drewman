@@ -35,11 +35,15 @@ function wait(ms = 0) {
     })
 }
 
+// aws lambda function signature for Netlify
 exports.handler = async (event, context) => {
     await wait(5000);
+    // for Vercel would be: const { body } = req; with no JSON business
     const body = JSON.parse(event.body);
     // Check if they have fille dout the honeypot
     if(body.mapleSyrup) {
+      // for Vercel:
+      // res.status(400).json({ message: 'message text'})
         return {
             statusCode: 400,
             body: JSON.stringify({ message: 'Boop beep bop zzstt good bye ERROR 3003'}),

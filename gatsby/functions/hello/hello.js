@@ -8,3 +8,11 @@ exports.handler = async (event, context) => {
 }
 
 // go to URL http://localhost:8888/.netlify/functions/hello
+
+
+// vercel setup below:
+
+// module.exports = async (req, res) => ({
+//     statusCode: 200,
+//     body: 'Hello!!',
+// });

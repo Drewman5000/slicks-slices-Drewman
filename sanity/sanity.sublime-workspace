@@ -1,0 +1,434 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"content\tproperty"
+			],
+			[
+				"levelC",
+				"levelCoin"
+			],
+			[
+				"boxs",
+				"box-shadow\tproperty"
+			],
+			[
+				"lists",
+				"list-style\tproperty"
+			],
+			[
+				"fz",
+				"font-size\tproperty"
+			],
+			[
+				"grid",
+				"grid-area\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".vscode/settings.json",
+			"settings":
+			{
+				"buffer_size": 837,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/andrewhyland/Desktop/Developer/master-gatsby/.eslintrc.js",
+			"settings":
+			{
+				"buffer_size": 2564,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "module.exports = {"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Preferences: Emmet Key Bindings"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andrewhyland/Desktop/Developer/master-gatsby/sanity",
+		"/Users/andrewhyland/Desktop/Developer/master-gatsby/sanity/.vscode"
+	],
+	"file_history":
+	[
+		"/Users/andrewhyland/Desktop/Developer/master-gatsby/sanity/sanity.sublime-project",
+		"/Users/andrewhyland/Desktop/Developer/master-gatsby/sanity/sample-data/delete-data-example.js",
+		"/Users/andrewhyland/Desktop/Developer/BitBotCopy/index.js",
+		"/Users/andrewhyland/Desktop/Developer/ByteBot/bytebot.js",
+		"/Users/andrewhyland/Desktop/Developer/ByteBot/commands/byte.js",
+		"/Users/andrewhyland/Desktop/Developer/BitBot/bitbot.js",
+		"/Users/andrewhyland/Desktop/Developer/BitBot/commands/bit.js",
+		"/Users/andrewhyland/Desktop/Developer/BitBot/commands/coin.js",
+		"/Users/andrewhyland/Desktop/Developer/BitBot/commands/index.js",
+		"/Users/andrewhyland/Desktop/Developer/BitBot/commands/choices.json",
+		"/Users/andrewhyland/Desktop/Developer/BitBot/config.json",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/SchoolLoopReplace-master/assets/images/VUSD_Logo_2016_vF.jpg",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/SchoolLoopReplace-master/.gitignore",
+		"/Users/andrewhyland/Desktop/MinecraftMod/TheDaggerMod/gradlew.bat",
+		"/Users/andrewhyland/Desktop/CSV/shareProfilesBatchSept2020.txt",
+		"/Users/andrewhyland/Desktop/CSV/callisonAddFaculty.txt",
+		"/Users/andrewhyland/Desktop/CSV/addElemBatch2020.txt",
+		"/Users/andrewhyland/Desktop/CSV/shareProfilesBatch.txt",
+		"/Users/andrewhyland/Desktop/CSV/changePassToggle.txt",
+		"/Users/andrewhyland/Desktop/Work Files/ArchiveMailChimpSignUpHTML.html",
+		"/Users/andrewhyland/Desktop/CSV/JulyBatch.txt",
+		"/Users/andrewhyland/Desktop/ByteBot/config.json",
+		"/Users/andrewhyland/Desktop/ByteBot/configure.json",
+		"/Users/andrewhyland/Desktop/ByteBot/.env",
+		"/Users/andrewhyland/Desktop/ByteBot/gitcheck.txt",
+		"/Users/andrewhyland/Desktop/BitBot/.env",
+		"/Users/andrewhyland/Desktop/BitBot/config.json",
+		"/Users/andrewhyland/Desktop/BitBot/package.json",
+		"/Users/andrewhyland/Desktop/BitBot/package-lock.json",
+		"/Users/andrewhyland/Desktop/BitBot/commands/bit.js",
+		"/Users/andrewhyland/Desktop/BitBot/commands/index.js",
+		"/Users/andrewhyland/Desktop/BitBot/commands/sample.js",
+		"/Users/andrewhyland/Desktop/BitBot/.gitignore",
+		"/Users/andrewhyland/Desktop/BitBot/index.js",
+		"/Users/andrewhyland/Desktop/CSV/JepsonBarcodes.txt",
+		"/Users/andrewhyland/Desktop/CSV/ArchiveClassroomCommand",
+		"/Users/andrewhyland/Desktop/CSV/TuesdayBatch.txt",
+		"/Users/andrewhyland/Desktop/MinecraftMod/MinecraftModding.Setup",
+		"/Users/andrewhyland/Desktop/CSV/SundayBatch.txt",
+		"/Users/andrewhyland/Desktop/CooperBarcodes.txt",
+		"/Users/andrewhyland/Desktop/MinecraftMod/TheDaggerMod/LICENSE",
+		"/Users/andrewhyland/Desktop/CallisonChromebookCodes.txt",
+		"/Users/andrewhyland/Desktop/MinecraftMod/TheDaggerMod/src/main/java/com/linadan/dagger/items/DaggerItem.java",
+		"/Users/andrewhyland/Desktop/OrchardBarcodes.txt",
+		"/Users/andrewhyland/Desktop/MarkhamBarcodes.txt",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/ResponsiveDesignCourse042020/FlexChallenge1/index.html",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/ResponsiveDesignCourse042020/FlexChallenge1/style.css",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/SchoolLoopReplace-master/EugenePadan Redesign 2019/Officehours.html",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/ResponsiveDesignCourse042020/Challenge2/style.css",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/ResponsiveDesignCourse042020/Challenge2/index.html",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/ResponsiveDesignCourse042020/style.css",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/13 - Using minmax() for Responsive Grids/minmax-FINISHED.html",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/ResponsiveDesignCourse042020/index.html",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/SchoolLoopReplace-master/EugenePadan Redesign 2019/originalzoombranding.html",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/SchoolLoopReplace-master/EugenePadan Redesign 2019/branding.html",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/SchoolLoopReplace-master/EugenePadan Redesign 2019/default.html",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/GatewayPPPRemake/gatewaypppremake.css",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/SchoolLoopReplace-master/style.css",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/Louise115/game.css",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/SchoolLoopReplace-master/index.html",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/2dGame114/canvas.js",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/2dGame114/game.js",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/2dGame114/game.css",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/2dGame114/main.css",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/2dGame114/index.html",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/2dGame113/game.js",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/2dGame113/canvas.js",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/2dGame113/game.css",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/2dGame113/main.css",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/2dGame113/index.html",
+		"/Volumes/Drews External/CSS Grid/css-grid-master/assets/style.css",
+		"/Volumes/Drew2GBExFa/2dGame112/game.js",
+		"/Volumes/Drews External/Developer/StaffDirectory/array.txt",
+		"/Volumes/Drews External/Developer/StaffDirectory/firsttry.html",
+		"/Volumes/Drews External/Developer/StaffDirectory/singleListItem.html",
+		"/Volumes/Drews External/Developer/StaffDirectory/staffDirectoryTemplate.html",
+		"/Volumes/Drews External/Developer/StaffDirectory/StaffDirectoryTemplateOrig.html",
+		"/Users/andrewhyland/Documents/Curse/Minecraft/Instances/Simple Nature 2.0/options.txt",
+		"/Users/andrewhyland/Documents/Curse/Minecraft/Instances/Simple Nature 2.0/optionsshaders.txt",
+		"/Volumes/Andrew's External Seagate/CSS Grid/css-grid-master/WebDevVUSD-master/default.css",
+		"/Users/andrewhyland/Downloads/archivedFiles/i33e629e3rasy.svg",
+		"/Users/andrewhyland/Desktop/KeyDates.html",
+		"/Users/andrewhyland/Library/Application Support/Twitch/CurseClient.settings",
+		"/Users/andrewhyland/Library/Application Support/Twitch/secure.settings",
+		"/Users/andrewhyland/Documents/Curse/Minecraft/Instances/Nature's Beauty (1)/manifest.json",
+		"/Users/andrewhyland/Desktop/ModArchive/archive/DrewCraftModOldJuly2019/src/main/resources/assets/drewcraftmod/models/item/tutorial_pickaxe.json",
+		"/Users/andrewhyland/Desktop/ModArchive/archive/DrewCraftModOldJuly2019/src/main/java/linadan03/drewcraftmod/items/ItemCustomAxe.java",
+		"/Volumes/Andrew's External Seagate/Minecraft Files/DomCraft/server.properties",
+		"/Users/andrewhyland/Documents/Curse/Minecraft/Instances/Simple Nature 2.0/minecraftinstance.json",
+		"/Users/andrewhyland/Documents/Curse/Minecraft/Instances/Simple Nature 2.0/usernamecache.json",
+		"/Users/andrewhyland/Documents/Curse/Minecraft/Instances/Simple Nature 2.0/usercache.json",
+		"/Users/andrewhyland/Desktop/MinecraftMod/DrewCraftMod/run/crash-reports/crash-2019-07-05_11.40.37-client.txt",
+		"/Users/andrewhyland/Desktop/MinecraftMod/DrewCraftMod/runClient.launch",
+		"/Users/andrewhyland/Desktop/ModArchive/archive/DrewCraftModOldJuly2019/src/main/resources/assets/drewcraftmod/models/block/tutorial_block.json",
+		"/Users/andrewhyland/Desktop/ModArchive/archive/DrewCraftModOldJuly2019/src/main/resources/assets/drewcraftmod/blockstates/tutorial_block.json",
+		"/Users/andrewhyland/Desktop/ModArchive/archive/DrewCraftModOldJuly2019/src/main/resources/assets/drewcraftmod/models/item/tutorial_item.json",
+		"/Users/andrewhyland/Desktop/MinecraftMod/DrewCraftMod/gradle/wrapper/gradle-wrapper.jar",
+		"/Users/andrewhyland/Desktop/MinecraftMod/DrewCraftMod/gradle/wrapper/gradle-wrapper.properties",
+		"/Users/andrewhyland/Desktop/MinecraftMod/DrewCraftMod/gradlew",
+		"/Users/andrewhyland/Desktop/MinecraftMod/DrewCraftMod/gradlew.bat",
+		"/Users/andrewhyland/Desktop/MinecraftMod/DrewCraftMod/gradle.properties",
+		"/Users/andrewhyland/Desktop/ModArchive/archive/DrewCraftModOldJuly2019/src/main/resources/META-INF/mods.toml",
+		"/Users/andrewhyland/Documents/Curse/Minecraft/Instances/Simple Nature 2.0/config/ctm.cfg",
+		"/Users/andrewhyland/Documents/Curse/Minecraft/Instances/Simple Nature 2.0/config/chisel.cfg",
+		"/Users/andrewhyland/Documents/Curse/Minecraft/Instances/Simple Nature 2.0/config/chesttransporter.cfg",
+		"/Users/andrewhyland/Documents/Curse/Minecraft/Instances/Simple Nature 2.0/config/tconstruct.cfg",
+		"/Users/andrewhyland/Documents/Curse/Minecraft/Instances/Simple Nature 2.0/config/immersiveengineering.cfg",
+		"/Users/andrewhyland/Documents/Curse/Minecraft/Instances/Simple Nature/options.txt",
+		"/Users/andrewhyland/Desktop/villageronly.txt",
+		"/Users/andrewhyland/Desktop/GCHedz.txt",
+		"/Users/andrewhyland/Downloads/SmallFortRuinsJapanese (1).rcst",
+		"/Users/andrewhyland/Desktop/WCWSeniors.txt",
+		"/Users/andrewhyland/Desktop/crash1",
+		"/Users/andrewhyland/Desktop/successrun",
+		"/Users/andrewhyland/Desktop/crash2",
+		"/Users/andrewhyland/Desktop/MinecraftMod/DrewCraftMod/run/config/forge-client.toml",
+		"/Users/andrewhyland/Desktop/MinecraftMod/DrewCraftMod/run/config/fml.toml",
+		"/Users/andrewhyland/Desktop/MinecraftMod/DrewCraftMod/run/crash-reports/crash-2019-05-17_16.53.22-client.txt",
+		"/Users/andrewhyland/Desktop/rotate_backups.py",
+		"/Users/andrewhyland/.Trash/css-grid-master/CSSGridMaster",
+		"/Users/andrewhyland/Desktop/DrewcraftMod",
+		"/Users/andrewhyland/Desktop/Minecraft Modding/DrewCraftMod/gradle.properties",
+		"/Volumes/Andrew's External Seagate/Minecraft Files/DomCraft/RotateBackups.py",
+		"/Users/andrewhyland/Desktop/Minecraft Modding/DManMod/README.txt",
+		"/Users/andrewhyland/Desktop/Minecraft Modding/DManMod/gradle/wrapper/gradle-wrapper.properties",
+		"/Users/andrewhyland/Downloads/css-grid-master/GatewayPPPRemake/newgatewayppp.html",
+		"/Users/andrewhyland/Downloads/css-grid-master/24 - Responisve Website/responsive-FINISHED.html",
+		"/Users/andrewhyland/Downloads/css-grid-master/24 - Responisve Website/responsive-START.css"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".vscode/settings.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/andrewhyland/Desktop/Developer/master-gatsby/.eslintrc.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2564,
+								2564
+							]
+						],
+						"settings":
+						{
+							"auto_name": "module.exports = {",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 140.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/ESLint/ESLint.sublime-build",
+	"project": "sanity.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
